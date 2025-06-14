@@ -1,0 +1,12 @@
+[project]
+name = "sol-fund-tracker"
+version = "0.1.0"
+description = "Synthetic Perpetuals Funding Rate Tracker for SOL using Jupiter API"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.3.0",
+    "pandas>=2.3.0",
+    "plotly>=6.1.2",
+    "requests>=2.32.4",
+    "streamlit>=1.45.1",
+]
