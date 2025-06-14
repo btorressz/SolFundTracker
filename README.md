@@ -72,4 +72,14 @@ The application works with the following data structure:
 
 This project is licensed under the MIT License.  
 
+---
+
+
+## 📸 Screenshots
+
+![SolFundTracker Screenshot](https://github.com/btorressz/SolFundTracker/blob/main/solfundtrackerscreenshot.jpg)
+
+---
+
+
 
