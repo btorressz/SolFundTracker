@@ -52,3 +52,20 @@ The application works with the following data structure:
 5. **Visualization**: Real-time charts updated via Streamlit's auto-refresh mechanism  
 
 ---
+
+## 📦 External Dependencies
+
+### 🛰️ APIs
+- **Jupiter API**: Primary data source for SOL spot prices  
+  - Endpoint: `https://api.jup.ag/price/v2`
+
+### 🐍 Python Libraries
+- `streamlit` – Web application framework  
+- `plotly` – Interactive charting and visualization  
+- `pandas` – Data manipulation and analysis  
+- `numpy` – Numerical computations for price generation  
+- `requests` – HTTP client for API calls
+
+---
+
+
