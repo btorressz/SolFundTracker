@@ -43,3 +43,12 @@ The application works with the following data structure:
 - Historical data display and export capabilities  
 
 ---
+
+## 🔄 Data Flow
+1. **Price Fetching**: Jupiter API provides real-time SOL spot prices  
+2. **Synthetic Generation**: `FundingCalculator` generates perpetual prices with configurable parameters  
+3. **Rate Calculation**: Funding rates are computed based on price divergence  
+4. **Data Logging**: All data points are stored in daily CSV files  
+5. **Visualization**: Real-time charts updated via Streamlit's auto-refresh mechanism  
+
+---
