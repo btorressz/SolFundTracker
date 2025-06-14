@@ -35,3 +35,11 @@ The application works with the following data structure:
 - Price divergence percentage  
 
 ---
+
+## 🖥️ User Interface
+- Real-time metrics dashboard with colorful gradient styling  
+- Interactive controls for **noise level** and **trend bias** adjustment  
+- Live charts showing **funding rates** and **price movements over time**  
+- Historical data display and export capabilities  
+
+---
