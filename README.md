@@ -68,4 +68,8 @@ The application works with the following data structure:
 
 ---
 
+## 🧾 License
+
+This project is licensed under the MIT License.  
+
 
