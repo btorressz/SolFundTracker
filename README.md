@@ -17,3 +17,21 @@ The application follows a **modular Python architecture** with clear separation 
 - **Visualization**: Plotly charts for interactive data presentation
 
 ---
+
+## 🧩 Key Components
+
+### 🔧 Core Modules
+- `app.py` – Main Streamlit application with UI components and real-time updates  
+- `jupiter_api.py` – Jupiter API client for fetching SOL spot prices  
+- `funding_calculator.py` – Synthetic perpetual price generation and funding rate calculations  
+- `data_logger.py` – CSV-based data persistence layer
+
+### 🧱 Data Models
+The application works with the following data structure:
+- Timestamp  
+- Spot price (from Jupiter API)  
+- Perpetual price (synthetically generated)  
+- Funding rate (calculated)  
+- Price divergence percentage  
+
+---
