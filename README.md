@@ -76,6 +76,14 @@ The application works with the following data structure:
 - **Light Blue**: `#4169E1`
 - **Accent Blue**: `#33b5e5`
 
+  ### 🌄 Background Gradients
+- **Main Background**:  
+  `linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%)`
+- **Sidebar Background**:  
+  `linear-gradient(180deg, #a8edea 0%, #fed6e3 100%)`
+- **Card Background**:  
+  `linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)`
+
 
 ## 🧾 License
 
