@@ -90,6 +90,16 @@ The application works with the following data structure:
 - **Accent Line (Golden Yellow)**: `#FFD93D`
 - **Purple Accent (Medium Orchid)**: `#BA55D3`
 
+  ### 🚦 Status Colors
+- **Positive / Green**:  
+  - `#00c851`  
+  - `#32CD32`
+- **Negative / Red**:  
+  - `#ff4444`  
+  - `#FF6347`
+- **Neutral**: `#33b5e5`
+- **Warning**: `#FF8C00`
+
 
 
 ## 🧾 License
