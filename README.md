@@ -68,6 +68,15 @@ The application works with the following data structure:
 
 ---
 
+## 🎨 Frontend Color Palette
+
+### 🟦 Primary Blues (Headers & Text)
+- **Dark Blue**: `#1e3c72`
+- **Medium Blue**: `#2a5298`
+- **Light Blue**: `#4169E1`
+- **Accent Blue**: `#33b5e5`
+
+
 ## 🧾 License
 
 This project is licensed under the MIT License.  
