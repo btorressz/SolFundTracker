@@ -100,7 +100,13 @@ The application works with the following data structure:
 - **Neutral**: `#33b5e5`
 - **Warning**: `#FF8C00`
 
+  ### 🧊 Chart Backgrounds
+- **Light Backgrounds with Transparency**:  
+  - `rgba(240,248,255,0.8)`  
+  - `rgba(248,249,250,0.8)`  
+  - `rgba(250,250,250,0.8)`
 
+---
 
 ## 🧾 License
 
