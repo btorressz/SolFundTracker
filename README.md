@@ -84,6 +84,13 @@ The application works with the following data structure:
 - **Card Background**:  
   `linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)`
 
+  ### 📈 Chart Colors
+- **Primary Line (Coral Red)**: `#FF6B6B`
+- **Secondary Line (Teal)**: `#4ECDC4`
+- **Accent Line (Golden Yellow)**: `#FFD93D`
+- **Purple Accent (Medium Orchid)**: `#BA55D3`
+
+
 
 ## 🧾 License
 
