@@ -119,6 +119,12 @@ This project is licensed under the MIT License.
 
 ![SolFundTracker Screenshot](https://github.com/btorressz/SolFundTracker/blob/main/solfundtrackerscreenshot.jpg)
 
+
+![](https://github.com/btorressz/SolFundTracker/blob/main/solfundtrackerperpscreenshot1.jpg)
+
+
+
+
 ---
 
 
